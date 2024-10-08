@@ -1,0 +1,11 @@
+global using NUnit.Framework;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using RestSharp;
+global using RestSharp.Authenticators;
+global using APIPractice.Test.Core.API;
+global using RestSharp.Serializers;
+global using RestSharp.Authenticators.OAuth2;
+global using Newtonsoft.Json;
